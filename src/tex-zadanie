@@ -1,0 +1,13 @@
+Архитектура приложения
+
+main/
+├── config.py
+├── bot.py
+├── database.py
+├── handlers/
+├──
+├── utils/
+├──
+├── .env # API ключи
+└── requirements.txt # зависимости
+
