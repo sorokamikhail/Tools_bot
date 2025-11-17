@@ -31,5 +31,5 @@
 - git clone https://github.com/sorokamikhail/Tools_bot
 ## Установка зависимостей
 - pip install -r requirements.txt
-Создайте файл .env в корневой директории:
+- Создайте файл .env в корневой директории:
 - BOT_TOKEN=your_telegram_bot_token
