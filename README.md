@@ -27,9 +27,9 @@
 
 ## Установка и запуск
 
-### 1. Клонирование репозитория
-git clone https://github.com/sorokamikhail/Tools_bot
+### Клонирование репозитория
+- git clone https://github.com/sorokamikhail/Tools_bot
 ## Установка зависимостей
-pip install -r requirements.txt
+- pip install -r requirements.txt
 Создайте файл .env в корневой директории:
-BOT_TOKEN=your_telegram_bot_token
+- BOT_TOKEN=your_telegram_bot_token
